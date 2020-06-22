@@ -1,13 +1,12 @@
-# Neural-Network-Assignments
+# Neural Network Assignments
 
-This repository has assignment submission for the Neural Network and Fuzzy Logic course taught in BITS Goa during 2018-19 ,Semester 2.
+Assignments submitted for the BITS F312 Neural Network and Fuzzy Logic course taught at BITS Goa during Semester II, 2018-19.
 
 Course Instructor : Basabdatta Sen Bhattacharya
 
-
 ### Contributors
 
-Mehul Rastogi
-Alish Dipani
-Gargi Balasubramanium
-Sugam
+1. Sugam Budhraja
+2. Gargi Balasubramanium
+3. Mehul Rastogi
+4. Alish Dipani
